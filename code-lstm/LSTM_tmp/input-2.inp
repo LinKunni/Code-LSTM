@@ -1,0 +1,7 @@
+train_step=800
+look_back=150
+n_layer=2
+n_neuron=50
+rnn_predict=1
+
+

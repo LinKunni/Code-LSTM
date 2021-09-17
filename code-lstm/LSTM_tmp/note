@@ -1,0 +1,10 @@
+# LSTM Model: training and prediction
+
+main.py  : main code 
+create_model_and_train.py  : LSTM model built and train  
+from_input_to_json.py      : build json file  
+prediction.py              : LSTM prediction
+read_pop.py                : Reading data and pre-handling
+input-1.inp                : Input file  (with fixed parameters)
+input-2.inp                : Input file  (with modified parameters)
+pop_t                      : Input data

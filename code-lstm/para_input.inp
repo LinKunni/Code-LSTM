@@ -1,0 +1,38 @@
+#train
+train_step_begin = 500
+train_step_last = 500
+n_step_of_train = 1
+
+#look_back
+look_back_begin = 50
+look_back_last = 100
+n_step_of_look_back = 50 
+
+#n_layer
+n_layer_begin = 2
+n_layer_last = 3
+n_step_of_layer = 1
+
+#n_neuron
+n_neuron_begin = 10
+n_neuron_last = 90
+n_step_of_neuron = 20
+
+#random_search
+random_search = 0
+search_rate = 0.1
+
+#rnn_predict
+rnn_predict = 1
+
+#save_file
+parm_file=500
+
+
+
+
+
+
+
+
+
